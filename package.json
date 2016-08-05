@@ -1,0 +1,25 @@
+{
+  "name": "lunt-box-sizing",
+  "version": "0.0.1",
+  "description": "Global box model for the Lunt framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcazalis/lunt-box-sizing.git"
+  },
+  "keywords": [
+    "lunt",
+    "css",
+    "framework",
+    "box-sizing"
+  ],
+  "author": "David Cazalis <davidcazalis@gmail.com> (http://www.davidcazalis.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidcazalis/lunt-box-sizing/issues"
+  },
+  "homepage": "https://github.com/davidcazalis/lunt-box-sizing#readme"
+}
