@@ -2,7 +2,9 @@
    BOX SIZING
    ========================================================================== */
 
-/* https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+/**
+ * 1. In case other components needs a content box model
+ */
 
 html {
   box-sizing: border-box;
@@ -11,5 +13,5 @@ html {
 *,
 *:before,
 *:after {
-  box-sizing: inherit;
+  box-sizing: inherit; /* 1 */
 }
